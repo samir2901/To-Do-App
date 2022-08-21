@@ -1,0 +1,38 @@
+body {
+    background: #f4f4f4;
+}
+
+a{
+    margin: 10px;
+}
+
+#form{
+    margin: 0 auto;
+    margin-top: 5px;
+    width: 800px;
+}
+
+#tasks{            
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 800px;
+}
+
+#label-todo{
+    font-size: large;
+}
+
+
+.todo{
+    font-size: x-large;
+}
+
+.status{
+    margin: 0 auto;
+    font-size: larger;
+    font-weight: 20px;
+}
+
+#textarea{
+    height: 100px;
+}
